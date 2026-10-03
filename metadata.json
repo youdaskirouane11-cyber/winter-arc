@@ -1,0 +1,6 @@
+{
+  "name": "Athlete Engine",
+  "description": "Professional performance engine for discipline, training, academics, prayer, and business development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
